@@ -1,0 +1,13 @@
+{
+    "name": "Bulk Text Importer",
+    "package": "bulk_text_importer",
+    "author": "https://github.com/dashboard",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Wyonghao198/WangHome",
+    "conflicts": [],
+    "mod": 0,
+    "min_anki_version": "2.1.50",
+    "max_anki_version": "",
+    "license": "MIT",
+    "type": 0
+}
